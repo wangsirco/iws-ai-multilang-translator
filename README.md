@@ -1,5 +1,6 @@
 <p align="center">   <img src="https://iws.tw/down/iwspkglogo.png" alt="IWS AI Multilang Translator" width="160"> </p>  <p align="center">   <b>IWS AI Multilang Translator</b><br>   由 AI 驱动的 WordPress 多语言翻译插件：接入多个语言模型和机器翻译，为你的博客构建可控、带兜底机制的多语言体验。 </p>
 
+[English README](./README_EN.md)
 
 ---
 
