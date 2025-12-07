@@ -29,6 +29,6 @@ IWS Multilang is an open‑source WordPress plugin that turns a single‑languag
 - 📝 Provide an optional “review & override” screen so site owners can manually polish key translated paragraphs and write them back into the cache.
 - ⚙️ Further optimize block segmentation and timeouts to handle very long articles smoothly on shared hosting and behind CDNs.
 
-
+## 💬 Afterword
 
 IWS Multilang may be a light and seemingly small WordPress plugin, yet it quietly proves something: within a truly open ecosystem, individuals can shape “Multilingual × AI” into a tool they genuinely own, rather than a service pulled along by subscription plans. How far it can go, and what shape it may grow into, is not determined by someone’s pricing page, but by how much curiosity, creativity, and imagination you are willing to build upon this small foundational block.
