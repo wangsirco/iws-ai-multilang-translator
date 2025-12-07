@@ -24,6 +24,7 @@ IWS Multilang 是一款开源的 WordPress 多语言插件，通过接入 Google
    - 选择主力翻译服务（Google / GLM‑4‑Flash / Claude‑3‑Haiku），分别粘贴对应的 API Key。
    - 勾选希望在前台展示的目标语言（EN / 繁體中文 / Español / Français）。
    - 启用缓存并设置缓存天数，在性能与成本之间做一个平衡。
+   - 在WordPress设置-外观-小工具-你想要的位置加入IWS语言切换（建议侧边栏和顶栏）。
 4. 打开任意文章，通过页面顶部语言条或侧边栏按钮切换语言视图，URL 会携带 `?iws_lang=` 参数。
 
 ## 🛣️ 未来开发方向
